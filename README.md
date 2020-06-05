@@ -1,4 +1,4 @@
-# NLW-1
+# Next level week #1
 
 ### Booster knowledge in all fronts: 
 
@@ -6,4 +6,4 @@
 - Frontend: Mobile (React Native)
 - Backend: NodeJS + express + SQLite
 
-Creating everyting from the beggining
+All projects created from the beggining
